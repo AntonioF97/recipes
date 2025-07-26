@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px;
+}
+
+.card{
+    background-color: rgb(230, 230, 230);
+    margin: 20px 300px;
+    padding: 10px 10px;
+}
+
+.card>*{
+    margin: 5px 10px;
+    
+}
