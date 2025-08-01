@@ -18,5 +18,21 @@ ul{
 
 .card>*{
     margin: 5px 10px;
-    
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    background-color: red;
+    color: white;
+}
+
+ol {
+  list-style-position: inside; /* Fa apparire il numero all'inizio della linea */
+  text-align: center;          /* Centra l'intero contenuto della lista */
+  padding-left: 0;             /* Rimuove lo spazio di default a sinistra */
+  margin-left: 0;
 }
